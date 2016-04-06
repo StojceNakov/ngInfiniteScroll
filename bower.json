@@ -1,5 +1,5 @@
 {
-    "name": "ngInfiniteScrollEdited",
+    "name": "ngInfiniteScroll",
     "main": "build/ng-infinite-scroll.js",
     "ignore": [
         "**/.*",
